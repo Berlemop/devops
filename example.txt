@@ -3,3 +3,4 @@ New line of text
 Third line of text
 Main line
 Feature line 1
+Feature line 2

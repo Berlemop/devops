@@ -1,16 +1,24 @@
 // app.js
 const express = require('express');
 const app = express();
-const port = process.env.PORT || 8080;
 
 app.get('/', (req, res) => {
-  res.send('Hello, World! updated');
+  res.send('Hello, World!');
 });
 
 app.get('/name/:name', (req, res) => {
   res.send(`Hello, ${req.params.name}!`);
 });
 
-app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`);
+app.get('/add/:a/:b', (req, res) => {
+  const a = parseFloat(req.params.a);
+  const b = parseFloat(req.params.b);
+  
+  if (isNaN(a) || isNaN(b)) {
+    return res.status(400).send('Invalid numbers');
+  }
+  
+  res.send(`${a + b}`);
 });
+
+module.exports = app;  

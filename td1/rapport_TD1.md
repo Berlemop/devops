@@ -46,7 +46,7 @@ Ensuite on lance l'application avec $ node app.js
 
 Pour finir l'application est déployé en local sur le port 8080 donc il suffit d'ouvrir dans le navigateur http://localhost:8080 pour voir le résultat. 
 
-![Résultat app local](\..\..\static\img\td1\screen_local.png)
+![Résultat app local](static\img\td1\screen_local.png)
 
 ## 3. Déploiement via une plateforme PaaS (Render)
 
@@ -55,7 +55,7 @@ Docker image, etc..).
 Nous avons utilisé Render , il faut créer un compte puis "deploy a new web service" puis utilisé nous avons utilisé un github public comme code source de notre appli et choisi quelques parametres comme le nom , le chemin et la commande de départ de l'application avant de la déployer. 
 on trouve sur l'appli le lien vers notre appli déployée https://sample-app-1iyu.onrender.com .  
 
-![Résultat app PaaS](..\..\static\img\td1\screen_PaaS.png)
+![Résultat app PaaS](\static\img\td1\screen_PaaS.png)
 
 ## 4. Déploiement via une infrastructure IaaS (AWS EC2)
 Les "infrastructure as a service" sont des moyens de déployer notre application sur un serveur avec plus de flexibilité et de controle. 

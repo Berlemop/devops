@@ -82,4 +82,4 @@ Ce script permet de déployer l’application sans connexion manuelle au serveur
 Une fois l’instance en état **Running**, l’adresse IP publique de l’instance est récupérée depuis la console AWS.  
 En accédant à l’URL suivante dans un navigateur : http://56.228.31.53/
 
-![Résultat app PaaS](/static/img/td1/screen_iaaS.png)
+![Résultat app PaaS](static/img/td1/screen_iaas.png)

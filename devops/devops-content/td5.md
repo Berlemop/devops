@@ -10,7 +10,7 @@ title: "TD5 : Continuous Integration (CI) and Continuous Delivery (CD) with Kube
 
 Après avoir cloné le repository nommé `devops-lab4`, j'ai suivi les étapes pour créer le dossier `td5` et effectuer une recopie du dossier `td4`.
 
-À la suite du clonage, j'ai également créé le fichier YAML pour le déploiement CI/CD.
+À la suite du clonage, j'ai également créé le fichier YAML pour le déploiement CI.
 
 ![Capture initialisation](/static/img/td5/image1.png)
 

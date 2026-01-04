@@ -1,6 +1,10 @@
 ---
-title: "TD5 : DevOps"
+title: "TD5 : Continuous Integration (CI) and Continuous Delivery (CD) with Kubernetes (Minikube)"
 ---
+
+> **Auteur :** Issa MAHAMAT ISSA  
+> **Filière :** E4FI  
+> **Enseignant :** Badr TAJINI
 
 ## 1. Clonage et Initialisation
 

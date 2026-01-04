@@ -1,9 +1,9 @@
 # Lab 1 – An Introduction to Deploying Apps
 
-**Auteur :** Keveen Bouendja  
-**Filière :** E4FI  
-**UE :** Ecoconception et analyse du cycle de vie (Devops Data)  
-**Enseignant :** Badr Tajini  
+>**Auteur :** Keveen Bouendja  
+>**Filière :** E4FI  
+>**UE :** Ecoconception et analyse du cycle de vie (Devops Data)  
+>**Enseignant :** Badr Tajini  
 
 ## Sommaire
 - [1. Objectif du TP](#1-objectif-du-tp)
